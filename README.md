@@ -6,6 +6,11 @@ Before beginning, please download the ".pt" model and example ".mat" file locate
 
 https://drive.google.com/drive/folders/1NNXniJ7EG8ihmjhxrq7y1aq7_3__klzX?usp=drive_link 
 
+Additionally, the following packages/toolkits are needed:
+1. The NIL-functions toolkit located at: https://github.com/neuroimlabpitt
+2. MONAI + all optional dependencies: https://docs.monai.io/en/stable/installation.html#installing-the-recommended-dependencies 
+
+
 Each step below requires manual input of data locations, plus manual inspection is highly encouraged.
 1. Run "preprocessing_vesselseg_steps.m" 
 2. Once the nifti file is created, run "EvalDatasets.ipynb"
