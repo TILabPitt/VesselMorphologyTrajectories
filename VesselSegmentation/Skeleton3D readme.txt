@@ -23,7 +23,7 @@ References:
 
 [1] Ta-Chih Lee, Rangasami L. Kashyap and Chong-Nam Chu
 "Building skeleton models via 3-D medial surface/axis thinning algorithms."
-Computer Vision, Graphics, and Image Processing, 56(6):462–478, 1994.
+Computer Vision, Graphics, and Image Processing, 56(6):462â€“478, 1994.
 
 [2] Kerschnitzki, Kollmannsberger et al.,
 "Architecture of the osteocyte network correlates with bone material quality."
