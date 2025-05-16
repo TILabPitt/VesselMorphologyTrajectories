@@ -6,7 +6,7 @@ function skel = Skeleton3D(img,spare)
 %
 % MATLAB vectorized implementation of the algorithm by Lee, Kashyap and Chu
 % "Building skeleton models via 3-D medial surface/axis thinning algorithms."
-% Computer Vision, Graphics, and Image Processing, 56(6):462–478, 1994.
+% Computer Vision, Graphics, and Image Processing, 56(6):462â€“478, 1994.
 %
 % Inspired by the ITK implementation by Hanno Homann
 % http://hdl.handle.net/1926/1292
